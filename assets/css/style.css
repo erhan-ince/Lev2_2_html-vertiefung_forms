@@ -1,0 +1,10 @@
+body {
+   width: 50%;
+}
+label,
+legend {
+   font-weight: bold;
+}
+input {
+   margin-top: 2%;
+}
